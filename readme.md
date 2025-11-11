@@ -60,7 +60,7 @@ To analyze sales trends, profits, and customer behavior across U.S. regions and 
 
 ## 🖼️ Dashboard Mockup
 
-results/Final_Dashboard.png
+[results/Final_Dashboard.png](https://github.com/KrishArora30-04/sales-us-dashboard/blob/main/results/Final_Dashboard.png)
 
 ---
 
